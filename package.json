@@ -37,7 +37,7 @@
     "eject": "react-scripts eject",
     "test": "jest",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build -r https://github.com/Seyfullah13/Myuka.git"
+    "deploy": "gh-pages -d build "
   },
   "eslintConfig": {
     "extends": [
