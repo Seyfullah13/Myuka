@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Myuka/static/css/main.80fe1abe.css",
+    "main.js": "/Myuka/static/js/main.88a3b86e.js",
+    "static/js/488.b2a7c124.chunk.js": "/Myuka/static/js/488.b2a7c124.chunk.js",
+    "index.html": "/Myuka/index.html",
+    "main.80fe1abe.css.map": "/Myuka/static/css/main.80fe1abe.css.map",
+    "main.88a3b86e.js.map": "/Myuka/static/js/main.88a3b86e.js.map",
+    "488.b2a7c124.chunk.js.map": "/Myuka/static/js/488.b2a7c124.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80fe1abe.css",
+    "static/js/main.88a3b86e.js"
+  ]
+}
